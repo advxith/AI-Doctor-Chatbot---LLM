@@ -1,6 +1,6 @@
 <b>Title</b>
 <br />
-Fine-Tuned Llama 2 for Enhancing Medical Dialogue
+Llama 2 for Enhancing Medical Dialogue
 <br />
 <b>About</b>
 <br />
